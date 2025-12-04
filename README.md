@@ -1,5 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=5ranke)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5ranke)](https://github.com/5ranke/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5ranke)](https://github.com/5ranke/github-readme-stats)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdtnwls0106)](https://solved.ac/wjdtnwls0106)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=5ranke&theme=dark)](https://git.io/streak-stats)
