@@ -1,13 +1,3 @@
-## 👋 About Me
-
-서비스가 실제로 동작하는 과정에 관심이 많은 백엔드 개발자 정수진입니다.
-
-Spring Boot 기반의 API 개발부터 데이터베이스 설계,  
-Docker · AWS를 활용한 배포까지 경험하고 있습니다.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=notion&logoColor=white)](https://sujin-backend.notion.site)
-
-
 ## 🏆 Problem Solving
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdtnwls0106)](https://solved.ac/wjdtnwls0106)
